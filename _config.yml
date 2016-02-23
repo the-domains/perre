@@ -1,0 +1,28 @@
+name: Perre
+favicon: null
+layout_spectrum: 0.8033066219650209
+typography_spectrum: 0.8006817034911364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9479974932037294
+  lightness: 0.712735498091206
+  saturation: 0.8476411351002753
+  rhythmicContrast: 0.1425489103421569
+purpose: []
