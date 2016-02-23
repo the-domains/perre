@@ -1,6 +1,6 @@
 name: Perre
 favicon: null
-layout_spectrum: 0.8033066219650209
+layout_spectrum: 0
 typography_spectrum: 0.80734
 title: Perre DiCarlo on The Grid
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#26353c'
-    - '#f97048'
-    - '#fafafa'
-    - '#d4cdbf'
-    - '#818a8e'
+    - '#fff5dc'
+    - '#e55000'
+    - '#4496c6'
+    - '#f4ca04'
+    - '#e8954f'
   brandStrength: 0.875
-  lightness: 0.6875
-  saturation: 0.875
+  lightness: 0.5
+  saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
