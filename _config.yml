@@ -1,20 +1,6 @@
-name: Perre
-favicon: null
-layout_spectrum: 0.51028
 typography_spectrum: 0.921
-title: Perre DiCarlo on The Grid
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#eef5e5'
@@ -26,4 +12,23 @@ color:
   lightness: 0.75
   saturation: 0.6875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.51028
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Perre DiCarlo
+  url: perredicarlo.com
+name: Perre
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Perre DiCarlo on The Grid
 purpose: []
